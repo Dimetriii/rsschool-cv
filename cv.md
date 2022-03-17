@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dima Moskalev
 
 
@@ -38,3 +39,6 @@ alert( result );
 
 ## English
 A2
+=======
+## Test deploying
+>>>>>>> 91de62d26a7b5dc901034975ae942775143d1206
